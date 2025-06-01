@@ -1,0 +1,23 @@
+- Partial Demo
+FHE encryption/decryption check
+Data distribution visualization
+Privacy metrics calculation
+
+- Full Training
+Complete End-to-End Process
+Server Initialization
+Global model creation
+Waiting for clients to connect
+Client Participation
+3 clients training on their non-IID data
+Each doing:
+Local training (2 epochs)
+DP noise addition
+FHE encryption
+Federated Averaging
+Server aggregates encrypted updates
+Model improvement over 5 rounds
+Final Outputs
+final_global_model.pth saved
+Real training curves (not mock data)
+Actual weight change analysis
