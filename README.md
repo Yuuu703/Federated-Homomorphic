@@ -2,7 +2,7 @@ FHE-FL: Privacy-Preserving Federated Learning with Homomorphic Encryption
 
 Description
 
-This repository contains an implementation of a federated learning (FL) system enhanced with fully homomorphic encryption (FHE) to ensure privacy during distributed model training. The project trains a SecureCNN model on the MNIST dataset across 3 clients using the Flower framework, TenSEAL for FHE, and PyTorch. By encrypting model updates, it addresses privacy leaks in traditional FL, making it suitable for sensitive applications like healthcare and finance. This work is part of a Birmingham City University CMP6200/DIG6200 project, aiming to explore secure machine learning techniques.
+This repository contains an implementation of a federated learning (FL) system enhanced with fully homomorphic encryption (FHE) to ensure privacy during distributed model training. The project trains a SecureCNN model on the MNIST dataset across 3 clients using the Flower framework, TenSEAL for FHE, and PyTorch. By encrypting model updates, it addresses privacy leaks in traditional FL, making it suitable for sensitive applications like healthcare and finance. This work is part of a Math in Computer Science course project, aiming to explore secure machine learning techniques.
 
 Installation
 
