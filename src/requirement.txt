@@ -1,0 +1,7 @@
+torch
+numpy
+matplotlib
+pyyaml
+tenseal
+flwr[simulation]
+torchvision
